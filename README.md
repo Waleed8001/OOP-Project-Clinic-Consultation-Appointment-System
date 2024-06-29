@@ -1,4 +1,4 @@
-<b>Assalam-O-Alaikum<b>
+Assalam-O-Alaikum<b>
 This is a Project Clinic Consultation Appointment System including C# and MySQL Language.<br>
 Including Members:-<br>
 1) Muhammad Waleed Kamal<br>
