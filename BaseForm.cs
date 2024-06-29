@@ -6,9 +6,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-using System;
-using MySql.Data.MySqlClient;
-
 namespace OOP_s_Project_Clinic_Consultation_Appointment_System
 {
     public partial class BaseForm : Form
