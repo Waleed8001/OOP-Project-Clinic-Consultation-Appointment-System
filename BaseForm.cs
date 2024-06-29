@@ -6,15 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-/*namespace OOP_s_Project_Clinic_Consultation_Appointment_System
-{
-    public class BaseForm
-    {
-
-    }
-}*/
 using System;
-//using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
 namespace OOP_s_Project_Clinic_Consultation_Appointment_System
